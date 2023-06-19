@@ -8,6 +8,7 @@ public class Solution {
 
         int c = a + b ;
                     
-        System.out.println(a + " + " + b + " = " + c);
+        //System.out.println(a + " + " + b + " = " + c);
+        System.out.printf("%d + %d = %d", a, b, a+b);
     }
 }
