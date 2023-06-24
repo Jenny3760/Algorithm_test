@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Solution {
     public int solution(int[] array, int n) {
         int answer = 0;
@@ -6,6 +8,8 @@ class Solution {
             answer += i == n ? 1 : 0;
         }
         
-        return answer;
+        //return answer;
+        // 스트림 사용 연습 
+        return (int) Arrays.stream(array).filter(i -> i == n).count();
     }
 }
