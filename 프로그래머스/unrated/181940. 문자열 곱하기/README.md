@@ -1,3 +1,15 @@
+### 내가 생각한 방식 
+
+- for문을 이용해서 반복 출력
+- 결과는 나오지만 속도가 느림
+
+### 다른 풀이 참조 
+
+- String.repeat() 함수를 이용하여 출력.
+- for문을 사용할때 보다 속도가 상승함.
+  
+--------------------
+
 # [unrated] 문자열 곱하기 - 181940 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181940) 
