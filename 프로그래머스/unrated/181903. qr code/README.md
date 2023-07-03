@@ -1,3 +1,15 @@
+## 내가 푼 방식 
+- String의 인덱스로 하나씩 나눠준 후 조건문을 돌림
+- 이후 조건에 맞으면 answer이라는 String에 값을 하나씩 더해줌
+- 생각할 수 있는 가장 간단한 방법이지만 속도가 느림.
+
+## 다른사람들이 푼 방식
+- String 대신 StringBuilder를 사용하여 프로그램 속도를 좀 더 빠르게 만듬
+- 혹은 조건을 충분히 이해하여 for문을 변경하여 for문을 조금 적게 돌게 하는 방식을 사용.<br>
+        ( 이 방식은 엄청 긴 Strig이 아닌 이상 속도에 크게 영향이 크지 않음 )
+
+- ---------
+
 # [unrated] qr code - 181903 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181903?language=java) 
