@@ -1,3 +1,15 @@
+## 처음 내가 푼 방식
+- ArrayList를 이용하여 풀이
+- 가장 익숙한 방식이어서 그대로 진행
+- 하지만 문제에서 요구하는 방식은 first in last out 방식을 사용하는 것이기 때문에 stack으로 변경하여 풀이
+- <img width="711" alt="스크린샷 2023-07-11 시간: 22 42 41" src="https://github.com/Jenny3760/Algorithm_test/assets/90241693/c3ee228f-e954-4a87-9a73-0186b3e119db">
+
+## stack으로 풀었을 때 걸리는 시간
+- <img width="725" alt="스크린샷 2023-07-11 시간: 22 42 20" src="https://github.com/Jenny3760/Algorithm_test/assets/90241693/07cbcaa4-7057-4add-a1a4-46b98862f88b">
+
+
+-------------------
+
 # [unrated] 배열 만들기 4 - 181918 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181918?language=java) 
