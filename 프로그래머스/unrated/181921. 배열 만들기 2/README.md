@@ -1,3 +1,14 @@
+## 내가 푼 방식
+- 숫자를 l부터 r까지 for문으로 돌려 String으로 변환 후
+- matches를 이용하여 정규식으로 풀어냄 .
+- 시간이 아주 오래걸리고 안좋은 방식
+
+## 다른 사람이 푼 방식 
+- 64까지의 숫자를 Integer.toBinaryString()으로 이진 값으로 변경 한 후 *5를 해줌
+- 그 숫자가 l과 r사이에 있으면 리스트에 넣어 배열로 반환
+
+- ------------------
+
 # [unrated] 배열 만들기 2 - 181921 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181921) 
