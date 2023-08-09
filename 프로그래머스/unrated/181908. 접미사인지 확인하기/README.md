@@ -1,3 +1,13 @@
+### 내가 푼 풀이 
+- 너무 어렵게 접근했다....
+- 바로 전에 관련된 알고리즘을 풀어서 그랬나..
+- list에 담아서 list의 contains 함수를 쓸 생각에 가득차있었다..
+
+### 남이 푼 풀이
+- String에 endsWith() 함수가 있었따...........
+
+- ------------------------
+
 # [unrated] 접미사인지 확인하기 - 181908 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181908#) 
