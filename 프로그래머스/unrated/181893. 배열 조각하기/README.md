@@ -1,3 +1,10 @@
+### 내가 생각 한 코드 
+- query의 index에 맞춰 돌아가는 for문에서 짝수일때와 홀수일때의 케이스를 분류하여 그때그때 Arrays.copyOfRange를 이용해서 잘라냄.
+
+### 다른 사람의 코드
+- 매번 잘라내는 것보다 start와 end를 규칙에 맞게 설정하여 마지막에 배열을 잘라준다.
+- 계산도 조금 복잡하고 생각을 많이 해야하지만 속도가 훨씬 줄어듬.
+
 # [level unrated] 배열 조각하기 - 181893 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181893#) 
