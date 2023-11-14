@@ -2,6 +2,7 @@ import java.util.*;
 
 class Solution {
     public String[] solution(String my_string) {
+        /*
         String[] temp = my_string.split(" ");
 
         int num = (int) Arrays.stream(temp).filter(e -> e.equals("")).count();
@@ -11,7 +12,9 @@ class Solution {
         for(String str : temp){
             if( !str.equals("") ) answer[index++] = str;
         }
-        
         return answer;
+        */
+    
+        return my_string.trim().split("[ ]+");
     }
 }
