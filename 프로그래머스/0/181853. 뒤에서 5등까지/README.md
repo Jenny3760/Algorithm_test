@@ -1,3 +1,8 @@
+---------------
+for문을 쓰지 않으려고 stream을 썼으나 굳이 쓸 필요가 없다.
+for문을 쓰면 더 빠르고 간단하게 설정이 가능하다 
+---------------
+
 # [level 0] 뒤에서 5등까지 - 181853 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181853) 
